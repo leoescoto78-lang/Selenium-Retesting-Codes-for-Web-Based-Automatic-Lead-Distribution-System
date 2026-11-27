@@ -15,8 +15,8 @@ EMAIL = "3bteamleader@gmail.com"
 PASSWORD = "3BTeamLeader123!"
 
 # NEW USER TEST DATA
-FULL_NAME = "Juan Dela Cruz"
-NEW_EMAIL = "juan.delacruz.qa@example.com"
+FULL_NAME = "Juana Dela Cruz"
+NEW_EMAIL = "juana.delacruz.qa@example.com"
 NEW_PASSWORD = "TestUser123!"
 ROLE = "Telemarketer"
 
